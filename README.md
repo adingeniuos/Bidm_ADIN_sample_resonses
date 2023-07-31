@@ -1,4 +1,4 @@
-# Bidm_ADIN_sample_resonses
+# Bidm_ADIN_sample_response
 sample_resonses
 
   "res": {
